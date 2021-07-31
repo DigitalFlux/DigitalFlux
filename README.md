@@ -22,6 +22,7 @@ I am a fullstack engineer from New York City
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
+![Php](https://img.shields.io/badge/-php-394989?style=flat-square&logo=php)
 
 <img
   src="https://github-readme-stats.vercel.app/api?username=digitalflux&count_private=true&theme=blue-green&custom_title=Ted+Southard's+GitHub+Stats&show_icons=true"
