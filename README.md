@@ -9,7 +9,7 @@ I am a fullstack engineer from New York City
 [<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@BablBrain)
 
 ### Expertise
-[<img align="left" src="https://img.shields.io/badge/-JavaScript-midnightblue?logo=javascript&logoColor=white" />]
+[<img align="left" src="https://img.shields.io/badge/-JavaScript-midnightblue?logo=javascript&logoColor=white&style=for-the-badge" />]
 [<img align="left" src="https://img.shields.io/badge/-NodeJS-YellowGreen?logo=NodeJS&logoColor=white" />]
 
 
