@@ -9,10 +9,15 @@ I am a fullstack engineer from New York City
 [<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@BablBrain)
 
 ### Expertise
-[<img align="left" src="https://img.shields.io/badge/-JavaScript-midnightblue?logo=javascript&logoColor=white&style=for-the-badge" />]
-[<img align="left" src="https://img.shields.io/badge/-NodeJS-YellowGreen?logo=NodeJS&logoColor=white" />]
+[<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge" />]
+[<img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge" />]
+[<img alt="Css" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge" />]
+[<img alt="C Sharp" src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white&style=for-the-badge" />]
 
 
+<img
+  src="https://github-readme-stats.vercel.app/api?username=digitalflux&count_private=true&title_color=FD9047&icon_color=FD9047&text_color=0C2233&custom_title=Ted+Southard's+GitHub+Stats&show_icons=true"
+/>
 
 <br>
 <br>
