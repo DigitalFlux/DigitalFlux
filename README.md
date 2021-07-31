@@ -19,7 +19,7 @@ I am a fullstack engineer from New York City
 <img
   src="https://github-readme-stats.vercel.app/api?username=digitalflux&count_private=true&theme=blue-green&custom_title=Ted+Southard's+GitHub+Stats&show_icons=true"
 />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=digitalflux&count_private=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=digitalflux&count_private=true&theme=blue-green" />
 
 <br>
 <br>
