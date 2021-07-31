@@ -10,9 +10,9 @@ I am a fullstack engineer from New York City
 
 ### Expertise
 [<img align="left" src="https://img.shields.io/badge/-JavaScript-midnightblue?logo=javascript&logoColor=white" />]
-[<img align="left" src="https://img.shields.io/badge/-JavaScript-001177?logo=javascript&logoColor=white" />]
+[<img align="left" src="https://img.shields.io/badge/-NodeJS-YellowGreen?logo=NodeJS&logoColor=white" />]
 
-[![Ted's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DigitalFlux&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <br>
 <br>
