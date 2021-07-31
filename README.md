@@ -9,7 +9,10 @@ I am a fullstack engineer from New York City
 [<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@BablBrain)
 
 ### Expertise
-[![Ted's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DigitalFlux&theme=blue-green)](https://github.com/DigitalFlux/github-readme-stats)
+[<img align="left" src="https://img.shields.io/badge/-JavaScript-midnightblue?logo=javascript&logoColor=white" />]
+[<img align="left" src="https://img.shields.io/badge/-JavaScript-001177?logo=javascript&logoColor=white" />]
+
+[![Ted's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DigitalFlux&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
 <br>
