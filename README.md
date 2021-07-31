@@ -14,5 +14,7 @@ I am a fullstack engineer from New York City
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
- 
+- [AI Musings for 6/8/2021](https://medium.com/@BablBrain/ai-musings-for-6-8-2021-40875c9af059?source=rss-b9478367f2ea------2)
+- [AI Musings #2](https://medium.com/@BablBrain/ai-musings-2-13149aaae36a?source=rss-b9478367f2ea------2)
+- [AI Musings #1](https://medium.com/@BablBrain/ai-musings-1-25a74a5e5604?source=rss-b9478367f2ea------2)
 <!-- BLOG-POST-LIST:END -->
