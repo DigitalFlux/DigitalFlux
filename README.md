@@ -35,8 +35,6 @@ I am a fullstack engineer from New York City
 />
 <br>
 <br>
-<br>
-
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
