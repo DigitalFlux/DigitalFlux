@@ -25,7 +25,7 @@ I am a fullstack engineer from New York City
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
 
 ![VS Code](https://img.shields.io/badge/-VS%20code-007ACC?style=flat-square&logo=visual-studio-code)
-![VS Code](https://img.shields.io/badge/-VS2019-plum?style=flat-square&logo=visual-studio)
+![VS Code](https://img.shields.io/badge/-VS2019-mediumorchid?style=flat-square&logo=visual-studio)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 
