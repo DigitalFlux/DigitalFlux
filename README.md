@@ -7,7 +7,7 @@ I am a fullstack engineer from New York City
 ### Read me
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/tedsouthard)
 [<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@BablBrain)
-<br>
+
 <br>
 ### Expertise
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
@@ -33,7 +33,6 @@ I am a fullstack engineer from New York City
 <img
   src="https://github-readme-stats.vercel.app/api?username=digitalflux&count_private=true&theme=blue-green&custom_title=Ted+Southard's+GitHub+Stats&show_icons=true"
 />
-<br>
 <br>
 
 ## Blog posts
