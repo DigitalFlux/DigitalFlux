@@ -1,4 +1,4 @@
-### 'Sup
+### 'Sup -- I'm looking for medium/long term contract opportunities!
 I am a fullstack engineer from New York City
 
 - 🔭 I’m currently working on some personal projects mostly revolving around neuro-inspired AI
