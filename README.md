@@ -1,6 +1,7 @@
 ### 'Sup -- I'm looking for medium/long term contract opportunities!
-I am a fullstack engineer from New York City
+I am a fullstack engineer in New York City looking for remote or hybrid opportunities in games, apps, web, etc.
 
+- I work on codebases large and small, in games or apps or web, because I just like to code and make things!
 - 🔭 I’m currently working on some personal projects mostly revolving around neuro-inspired AI
 - 🌱 I’m currently learning much about the same, as well as just upping my skills in various areas
 
