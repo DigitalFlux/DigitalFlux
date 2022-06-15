@@ -34,6 +34,9 @@ I am a fullstack engineer in New York City looking for remote or hybrid opportun
 [<img align="left" alt="medium" src="https://img.shields.io/badge/-Libra&#32;Audio-tomato?&style=for-the-badge" />](https://github.com/snhu-labs/Libra-Audio)
 [<img align="left" alt="medium" src="https://img.shields.io/badge/-Libra&#32;Text-orangered?&style=for-the-badge" />](https://github.com/snhu-labs/Libra-Text)
 
+### Live Products I've Worked On
+![Learn with Sesame Street](https://img.shields.io/badge/-Learn%20with%20Sesame%20Street-brightgreen)
+
 <br>
 <br>
 
