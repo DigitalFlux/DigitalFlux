@@ -42,6 +42,9 @@ I am a fullstack engineer in New York City looking for remote or hybrid opportun
 <br>
 <br>
 [<img align="left" alt="medium" src="https://img.shields.io/badge/Game-Dodge%20Bots-lightgrey?style=for-the-badge" />](https://ivanlukianchuk.com/project/will-pwn-4-food)
+<br>
+<br>
+[<img align="left" alt="medium" src="https://img.shields.io/badge/Other%20And%20Older-BablBrain-blue" />](https://www.bablbrain.com/about-me/)
 
 <br>
 <br>
