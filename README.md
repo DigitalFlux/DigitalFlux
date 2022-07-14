@@ -1,3 +1,5 @@
+[<img align="center" alt="banner collage" src="./TSBanner1.png" />]
+
 ### 'Sup -- I'm looking for medium/long term contract opportunities!
 I am a games/app engineer in New York City looking for remote opportunities in games, apps, web, etc.
 
