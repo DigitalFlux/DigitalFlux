@@ -50,7 +50,7 @@ I am a games/app engineer in New York City looking for remote opportunities in g
 <br>
 
 [![Ted's GitHub stats](https://github-readme-stats.vercel.app/api?username=DigitalFlux&count_private=true&hide=stars)](https://github.com/DigitalFlux/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DigitalFlux)](https://github.com/DigitalFlux/github-readme-stats)
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
