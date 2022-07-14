@@ -1,7 +1,6 @@
 <img align="center" alt="banner collage" src="./TSBanner1.png" />
 
-### 'Sup -- I'm looking for medium/long term contract opportunities!
-I am a games/app engineer in New York City looking for remote opportunities in games, apps, web, etc.
+### I am a games/app engineer in New York City looking for remote opportunities in games, apps, web, etc.
 
 - I work on codebases and teams large and small, in games or apps or web, because I just like to code and make things!
 - 🔭 I’m currently working on some personal projects mostly revolving around neuro-inspired AI
