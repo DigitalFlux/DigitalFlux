@@ -49,7 +49,7 @@ I am a games/app engineer in New York City looking for remote opportunities in g
 <br>
 <br>
 
-[![Visits Badge](https://badges.pufler.dev/visits/DigitalFlux/git-badges)](https://badges.pufler.dev)
+
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
