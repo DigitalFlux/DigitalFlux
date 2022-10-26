@@ -43,13 +43,16 @@
 [<img align="left" alt="medium" src="https://img.shields.io/badge/Service-InsightNG-orange?style=for-the-badge" />](https://www.insightng.com)
 <br>
 <br>
-[<img align="left" alt="medium" src="https://img.shields.io/badge/Game-Little%20Fish%20Lagoon-lightgrey?style=for-the-badge" />](https://vimeo.com/417368718)
+[<img align="left" alt="medium" src="https://img.shields.io/badge/Game-Little%20Fish%20Lagoon-4A738C?style=for-the-badge" />](https://vimeo.com/417368718)
 <br>
 <br>
-[<img align="left" alt="medium" src="https://img.shields.io/badge/Game-Crisis%20In%20Space-lightgrey?style=for-the-badge" />](https://vimeo.com/417383037)
+[<img align="left" alt="medium" src="https://img.shields.io/badge/Game-Crisis%20In%20Space-011341?style=for-the-badge" />](https://vimeo.com/417383037)
 <br>
 <br>
-[<img align="left" alt="medium" src="https://img.shields.io/badge/Game-Dodge%20Bots-lightgrey?style=for-the-badge" />](https://ivanlukianchuk.com/project/will-pwn-4-food)
+[<img align="left" alt="medium" src="https://img.shields.io/badge/Game-Dodge%20Bots-444459?style=for-the-badge" />](https://ivanlukianchuk.com/project/will-pwn-4-food)
+<br>
+<br>
+[<img align="left" alt="medium" src="https://img.shields.io/badge/Game-Epic%20Frontiers-30475D?style=for-the-badge" />](https://www.youtube.com/watch?v=BgmsDIY57n4)
 <br>
 <br>
 [<img align="left" alt="medium" src="https://img.shields.io/badge/Other%20And%20Older-BablBrain-blue?style=for-the-badge" />](https://www.bablbrain.com/about-me/)
