@@ -43,6 +43,12 @@
 [<img align="left" alt="medium" src="https://img.shields.io/badge/Service-InsightNG-orange?style=for-the-badge" />](https://www.insightng.com)
 <br>
 <br>
+[<img align="left" alt="medium" src="https://img.shields.io/badge/Game-Little%20Fish%20Lagoon-lightgrey?style=for-the-badge" />](https://vimeo.com/417368718)
+<br>
+<br>
+[<img align="left" alt="medium" src="https://img.shields.io/badge/Game-Crisis%20In%20Space-lightgrey?style=for-the-badge" />](https://vimeo.com/417383037)
+<br>
+<br>
 [<img align="left" alt="medium" src="https://img.shields.io/badge/Game-Dodge%20Bots-lightgrey?style=for-the-badge" />](https://ivanlukianchuk.com/project/will-pwn-4-food)
 <br>
 <br>
