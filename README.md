@@ -36,7 +36,7 @@
 [<img align="left" alt="medium" src="https://img.shields.io/badge/-Libra&#32;Text-orangered?&style=for-the-badge" />](https://github.com/snhu-labs/Libra-Text)
 [<img align="left" alt="medium" src="https://img.shields.io/badge/-WorkSprite-blue?&style=for-the-badge" />](https://github.com/digitalflux/WorkSprite)
 <br>
-### Commercial Projects
+### Videos and links for Commercial Projects
 [<img align="left" alt="medium" src="https://img.shields.io/badge/Mobile%20Game-Learn%20with%20Sesame%20Street-brightgreen?style=for-the-badge" />](https://play.google.com/store/apps/details?id=com.homer.sesame)
 <br>
 <br>
