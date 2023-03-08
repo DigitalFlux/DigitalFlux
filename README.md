@@ -23,11 +23,13 @@
 ![Python](https://img.shields.io/badge/-Python_★-black?style=flat-square&logo=Python)<br>
 ![Rust](https://img.shields.io/badge/-Rust_★-maroon?style=flat-square&logo=rust)
 
+#### Frameworks, Apps, and Stacks
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
 
+#### Tools
 ![VS Code](https://img.shields.io/badge/-VS%20code-007ACC?style=flat-square&logo=visual-studio-code)
 ![VS Code](https://img.shields.io/badge/-VS2019-mediumorchid?style=flat-square&logo=visual-studio)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
