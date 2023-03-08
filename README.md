@@ -35,29 +35,31 @@
 <img align="left" alt="medium" src="https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white" />
 <img align="left" alt="medium" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
 <br>
-
-![Gradle](https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
-![Electron](https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=9FEAF9)
-![Xamarin](https://img.shields.io/badge/Xamarin-3498DB?style=for-the-badge&logo=xamarin&logoColor=white)
-![Cytoscape](https://img.shields.io/badge/cytoscape.js-F7DF1E?style=for-the-badge&logo=cytoscape.js&logoColor=000)
-![D3](https://img.shields.io/badge/d3.js-F9A03C?style=for-the-badge&logo=d3.js&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=for-the-badge&logo=mysql)
-![Docker](https://img.shields.io/badge/-Docker-black?style=for-the-badge&logo=docker)
-![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazon-aws)
+<img align="left" alt="medium" src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white"/>
+<img align="left" alt="medium" src="https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=9FEAF9"/>
+<img align="left" alt="medium" src="https://img.shields.io/badge/Xamarin-3498DB?style=for-the-badge&logo=xamarin&logoColor=white"/>
+<img align="left" alt="medium" src="https://img.shields.io/badge/cytoscape.js-F7DF1E?style=for-the-badge&logo=cytoscape.js&logoColor=000"/>
+<br>
+<img align="left" alt="medium" src="https://img.shields.io/badge/d3.js-F9A03C?style=for-the-badge&logo=d3.js&logoColor=white"/>
+<img align="left" alt="medium" src="https://img.shields.io/badge/-MySQL-black?style=for-the-badge&logo=mysql"/>
+<img align="left" alt="medium" src="https://img.shields.io/badge/-Docker-black?style=for-the-badge&logo=docker"/>
+<img align="left" alt="medium" src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazon-aws"/>
 
 #### Tools
-![VS Code](https://img.shields.io/badge/-VS%20code-007ACC?style=for-the-badge&logo=visual-studio-code)
-![VS Code](https://img.shields.io/badge/-VS2019-mediumorchid?style=for-the-badge&logo=visual-studio)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
-![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=for-the-badge&logo=bitbucket)
-![Jira](https://img.shields.io/badge/-Jira-blue?style=for-the-badge&logo=jira)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
-![Inkscape](https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=Inkscape&logoColor=white)
-![XAMPP](https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
-![ESLint](https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white)
+<img align="left" alt="medium" src="https://img.shields.io/badge/-VS%20code-007ACC?style=for-the-badge&logo=visual-studio-code"/>
+<img align="left" alt="medium" src="https://img.shields.io/badge/-VS2019-mediumorchid?style=for-the-badge&logo=visual-studio"/>
+<img align="left" alt="medium" src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github"/>
+<img align="left" alt="medium" src="https://img.shields.io/badge/-BitBucket-darkblue?style=for-the-badge&logo=bitbucket"/>
+<br>
+<img align="left" alt="medium" src="https://img.shields.io/badge/-Jira-blue?style=for-the-badge&logo=jira"/>
+<img align="left" alt="medium" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+<img align="left" alt="medium" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"/>
+<img align="left" alt="medium" src="https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=Inkscape&logoColor=white"/>
+<br>
+<img align="left" alt="medium" src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white"/>
+<img align="left" alt="medium" src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/>
+<img align="left" alt="medium" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"/>
+<img align="left" alt="medium" src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white"/>
 
 ### Open Source Projects
 [<img align="left" alt="medium" src="https://img.shields.io/badge/-Libra&#32;Audio-tomato?&style=for-the-badge" />](https://github.com/snhu-labs/Libra-Audio)
