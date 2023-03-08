@@ -19,7 +19,7 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript_★★★-3178C6?style=flat-square&logo=typescript&logoColor=white)<br>
 ![C#](https://img.shields.io/badge/-C%23_★★★-00599C?style=flat-square&logo=csharp)<br>
 ![C++](https://img.shields.io/badge/-C++_★★★-00599C?style=flat-square&logo=c)<br>
-![React](https://img.shields.io/badge/-React_★★-61dafb?style=flat-square&logo=react&logoColor=black)
+![React](https://img.shields.io/badge/-React_★★-61dafb?style=flat-square&logo=react&logoColor=black)<br>
 ![Php](https://img.shields.io/badge/-php_★★-394989?style=flat-square&logo=php)<br>
 ![Python](https://img.shields.io/badge/-Python_★-black?style=flat-square&logo=Python)<br>
 ![Rust](https://img.shields.io/badge/-Rust_★-maroon?style=flat-square&logo=rust)
