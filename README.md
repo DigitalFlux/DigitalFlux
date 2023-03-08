@@ -15,7 +15,7 @@
 #### (★★★★★ - Expert, ★★★★ - Advanced, ★★★ - Proficient, ★★ - Working Experience, ★ - Learning/Familiarity)
 ![JavaScript](https://img.shields.io/badge/-JavaScript_★★★★-black?style=flat-square&logo=javascript)<br>
 ![HTML5](https://img.shields.io/badge/-HTML5_★★★★-E34F26?style=flat-square&logo=html5&logoColor=white)<br>
-![Unity](https://img.shields.io/badge/Unity_★★★-100000?style=for-the-badge&logo=unity&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity_★★★-100000?style=for-the-badge&logo=unity&logoColor=white)<br>
 ![CSS3](https://img.shields.io/badge/-CSS3_★★★-1572B6?style=flat-square&logo=css3)<br>
 ![TypeScript](https://img.shields.io/badge/-TypeScript_★★★-3178C6?style=flat-square&logo=typescript&logoColor=white)<br>
 ![C#](https://img.shields.io/badge/-C%23_★★★-00599C?style=flat-square&logo=csharp)<br>
