@@ -13,20 +13,20 @@
 
 ### Expertise
 #### (★★★★★ - Expert, ★★★★ - Advanced, ★★★ - Proficient, ★★ - Working Experience, ★ - Learning/Familiarity)
-![JavaScript](https://img.shields.io/badge/-JavaScript_★★★★-black?style=flat-square&logo=javascript)<br>
-![HTML5](https://img.shields.io/badge/-HTML5_★★★★-E34F26?style=flat-square&logo=html5&logoColor=white)<br>
+![JavaScript](https://img.shields.io/badge/-JavaScript_★★★★-black?style=for-the-badge&logo=javascript)<br>
+![HTML5](https://img.shields.io/badge/-HTML5_★★★★-E34F26?style=for-the-badge&logo=html5&logoColor=white)<br>
 ![Unity](https://img.shields.io/badge/Unity_★★★-100000?style=for-the-badge&logo=unity&logoColor=white)<br>
-![CSS3](https://img.shields.io/badge/-CSS3_★★★-1572B6?style=flat-square&logo=css3)<br>
-![TypeScript](https://img.shields.io/badge/-TypeScript_★★★-3178C6?style=flat-square&logo=typescript&logoColor=white)<br>
-![C#](https://img.shields.io/badge/-C%23_★★★-00599C?style=flat-square&logo=csharp)<br>
-![C++](https://img.shields.io/badge/-C++_★★★-00599C?style=flat-square&logo=c)<br>
+![CSS3](https://img.shields.io/badge/-CSS3_★★★-1572B6?style=for-the-badge&logo=css3)<br>
+![TypeScript](https://img.shields.io/badge/-TypeScript_★★★-3178C6?style=for-the-badge&logo=typescript&logoColor=white)<br>
+![C#](https://img.shields.io/badge/-C%23_★★★-00599C?style=for-the-badge&logo=csharp)<br>
+![C++](https://img.shields.io/badge/-C++_★★★-00599C?style=for-the-badge&logo=c)<br>
 ![VueJS](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)<br>
-![React](https://img.shields.io/badge/-React_★★-61dafb?style=flat-square&logo=react&logoColor=black)<br>
+![React](https://img.shields.io/badge/-React_★★-61dafb?style=for-the-badge&logo=react&logoColor=black)<br>
 ![.NET](https://img.shields.io/badge/.NET_★★-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)<br>
-![Php](https://img.shields.io/badge/-php_★★-394989?style=flat-square&logo=php)<br>
-![Python](https://img.shields.io/badge/-Python_★-black?style=flat-square&logo=Python)<br>
+![Php](https://img.shields.io/badge/-php_★★-394989?style=for-the-badge&logo=php)<br>
+![Python](https://img.shields.io/badge/-Python_★-black?style=for-the-badge&logo=Python)<br>
 ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white)<br>
-![Rust](https://img.shields.io/badge/-Rust_★-maroon?style=flat-square&logo=rust)<br>
+![Rust](https://img.shields.io/badge/-Rust_★-maroon?style=for-the-badge&logo=rust)<br>
 ![OpenJDK](https://img.shields.io/badge/OpenJDK_★-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 #### Frameworks, Apps, and Stacks
@@ -44,11 +44,11 @@
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazon-aws)
 
 #### Tools
-![VS Code](https://img.shields.io/badge/-VS%20code-007ACC?style=flat-square&logo=visual-studio-code)
-![VS Code](https://img.shields.io/badge/-VS2019-mediumorchid?style=flat-square&logo=visual-studio)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
-![Jira](https://img.shields.io/badge/-Jira-blue?style=flat-square&logo=jira)
+![VS Code](https://img.shields.io/badge/-VS%20code-007ACC?style=for-the-badge&logo=visual-studio-code)
+![VS Code](https://img.shields.io/badge/-VS2019-mediumorchid?style=for-the-badge&logo=visual-studio)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
+![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=for-the-badge&logo=bitbucket)
+![Jira](https://img.shields.io/badge/-Jira-blue?style=for-the-badge&logo=jira)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
 ![Inkscape](https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=Inkscape&logoColor=white)
