@@ -19,6 +19,7 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript_★★★-darkblue?style=flat-square&logo=typescript)<br>
 ![C#](https://img.shields.io/badge/-C%23_★★★-00599C?style=flat-square&logo=csharp)<br>
 ![C++](https://img.shields.io/badge/-C++_★★★-00599C?style=flat-square&logo=c)<br>
+![React](https://img.shields.io/badge/-React_★★-61dafb?style=flat-square&logo=react&logoColor=black)
 ![Php](https://img.shields.io/badge/-php_★★-394989?style=flat-square&logo=php)<br>
 ![Python](https://img.shields.io/badge/-Python_★-black?style=flat-square&logo=Python)<br>
 ![Rust](https://img.shields.io/badge/-Rust_★-maroon?style=flat-square&logo=rust)
@@ -34,6 +35,9 @@
 ![VS Code](https://img.shields.io/badge/-VS2019-mediumorchid?style=flat-square&logo=visual-studio)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
+![Jira](https://img.shields.io/badge/-Jira-blue?style=flat-square&logo=jira)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=DigitalFlux)](https://github.com/DigitalFlux/github-profile-trophy)
 
 ### Open Source Projects
 [<img align="left" alt="medium" src="https://img.shields.io/badge/-Libra&#32;Audio-tomato?&style=for-the-badge" />](https://github.com/snhu-labs/Libra-Audio)
