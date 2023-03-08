@@ -37,7 +37,7 @@
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 ![Jira](https://img.shields.io/badge/-Jira-blue?style=flat-square&logo=jira)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=DigitalFlux)](https://github.com/DigitalFlux/github-profile-trophy&rank=-?)
+[![trophy](https://github-profile-trophy.vercel.app/?username=DigitalFlux)](https://github.com/DigitalFlux/github-profile-trophy&rank=-Unknown)
 
 ### Open Source Projects
 [<img align="left" alt="medium" src="https://img.shields.io/badge/-Libra&#32;Audio-tomato?&style=for-the-badge" />](https://github.com/snhu-labs/Libra-Audio)
