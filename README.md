@@ -12,7 +12,7 @@
 <br>
 
 ### Expertise 
-## (★★★★★ - Expert, ★★★★ - Advanced, ★★★ - Proficient, ★★ - Working Experience, ★ - Learning/Familiarity)
+#### (★★★★★ - Expert, ★★★★ - Advanced, ★★★ - Proficient, ★★ - Working Experience, ★ - Learning/Familiarity)
 ![JavaScript](https://img.shields.io/badge/-JavaScript_★★★★-black?style=flat-square&logo=javascript)<br>
 ![HTML5](https://img.shields.io/badge/-HTML5_★★★★-E34F26?style=flat-square&logo=html5&logoColor=white)<br>
 ![CSS3](https://img.shields.io/badge/-CSS3_★★★-1572B6?style=flat-square&logo=css3)<br>
