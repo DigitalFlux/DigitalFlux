@@ -20,12 +20,12 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript_★★★-3178C6?style=for-the-badge&logo=typescript&logoColor=white)<br>
 ![C#](https://img.shields.io/badge/-C%23_★★★-00599C?style=for-the-badge&logo=csharp)<br>
 ![C++](https://img.shields.io/badge/-C++_★★★-00599C?style=for-the-badge&logo=c)<br>
-![VueJS](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)<br>
+![VueJS](https://img.shields.io/badge/Vue.js_★★-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)<br>
 ![React](https://img.shields.io/badge/-React_★★-61dafb?style=for-the-badge&logo=react&logoColor=black)<br>
 ![.NET](https://img.shields.io/badge/.NET_★★-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)<br>
 ![Php](https://img.shields.io/badge/-php_★★-394989?style=for-the-badge&logo=php)<br>
 ![Python](https://img.shields.io/badge/-Python_★-black?style=for-the-badge&logo=Python)<br>
-![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white)<br>
+![Webpack](https://img.shields.io/badge/Webpack_★-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white)<br>
 ![Rust](https://img.shields.io/badge/-Rust_★-maroon?style=for-the-badge&logo=rust)<br>
 ![OpenJDK](https://img.shields.io/badge/OpenJDK_★-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
@@ -56,9 +56,6 @@
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 ![ESLint](https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white)
-
-
-
 
 ### Open Source Projects
 [<img align="left" alt="medium" src="https://img.shields.io/badge/-Libra&#32;Audio-tomato?&style=for-the-badge" />](https://github.com/snhu-labs/Libra-Audio)
