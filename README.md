@@ -11,7 +11,7 @@
 [<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@BablBrain)
 <br>
 
-### Expertise
+### Expertise (★★★★★ - Expert, ★★★★ - Advanced, ★★★ - Proficient, ★★ - Working Experience, ★ - Learning/Familiarity)
 ![JavaScript](https://img.shields.io/badge/-JavaScript_★★★★-black?style=flat-square&logo=javascript)<br>
 ![HTML5](https://img.shields.io/badge/-HTML5_★★★★-E34F26?style=flat-square&logo=html5&logoColor=white)<br>
 ![CSS3](https://img.shields.io/badge/-CSS3_★★★-1572B6?style=flat-square&logo=css3)<br>
@@ -20,6 +20,7 @@
 ![Php](https://img.shields.io/badge/-php_★★-394989?style=flat-square&logo=php)<br>
 ![TypeScript](https://img.shields.io/badge/-TypeScript_★★-007ACC?style=flat-square&logo=typescript)<br>
 ![Python](https://img.shields.io/badge/-Python_★-black?style=flat-square&logo=Python)<br>
+![Rust](https://img.shields.io/badge/-Rust_★-maroon?style=flat-square&logo=rust)
 
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
