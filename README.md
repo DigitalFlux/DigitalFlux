@@ -15,17 +15,30 @@
 #### (★★★★★ - Expert, ★★★★ - Advanced, ★★★ - Proficient, ★★ - Working Experience, ★ - Learning/Familiarity)
 ![JavaScript](https://img.shields.io/badge/-JavaScript_★★★★-black?style=flat-square&logo=javascript)<br>
 ![HTML5](https://img.shields.io/badge/-HTML5_★★★★-E34F26?style=flat-square&logo=html5&logoColor=white)<br>
+![Unity](https://img.shields.io/badge/Unity_★★★-100000?style=for-the-badge&logo=unity&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3_★★★-1572B6?style=flat-square&logo=css3)<br>
 ![TypeScript](https://img.shields.io/badge/-TypeScript_★★★-3178C6?style=flat-square&logo=typescript&logoColor=white)<br>
 ![C#](https://img.shields.io/badge/-C%23_★★★-00599C?style=flat-square&logo=csharp)<br>
 ![C++](https://img.shields.io/badge/-C++_★★★-00599C?style=flat-square&logo=c)<br>
+![VueJS](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)<br>
 ![React](https://img.shields.io/badge/-React_★★-61dafb?style=flat-square&logo=react&logoColor=black)<br>
+![.NET](https://img.shields.io/badge/.NET_★★-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)<br>
 ![Php](https://img.shields.io/badge/-php_★★-394989?style=flat-square&logo=php)<br>
 ![Python](https://img.shields.io/badge/-Python_★-black?style=flat-square&logo=Python)<br>
-![Rust](https://img.shields.io/badge/-Rust_★-maroon?style=flat-square&logo=rust)
+![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white)<br>
+![Rust](https://img.shields.io/badge/-Rust_★-maroon?style=flat-square&logo=rust)<br>
+![OpenJDK](https://img.shields.io/badge/OpenJDK_★-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 #### Frameworks, Apps, and Stacks
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![Cordova](https://img.shields.io/badge/Cordova-35434F?style=for-the-badge&logo=apache-cordova&logoColor=E8E8E8)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white)
+![JQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![Gradle](https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=9FEAF9)
+![Xamarin](https://img.shields.io/badge/Xamarin-3498DB?style=for-the-badge&logo=xamarin&logoColor=white)
+![Cytoscape](https://img.shields.io/badge/cytoscape.js-F7DF1E?style=for-the-badge&logo=cytoscape.js&logoColor=000)
+![D3](https://img.shields.io/badge/d3.js-F9A03C?style=for-the-badge&logo=d3.js&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
@@ -36,6 +49,15 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 ![Jira](https://img.shields.io/badge/-Jira-blue?style=flat-square&logo=jira)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
+![Inkscape](https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=Inkscape&logoColor=white)
+![XAMPP](https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
+![ESLint](https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white)
+
+
 
 
 ### Open Source Projects
