@@ -44,6 +44,7 @@
 <img align="left" alt="medium" src="https://img.shields.io/badge/-MySQL-black?style=for-the-badge&logo=mysql"/>
 <img align="left" alt="medium" src="https://img.shields.io/badge/-Docker-black?style=for-the-badge&logo=docker"/>
 <img align="left" alt="medium" src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazon-aws"/>
+<br>
 
 #### Tools
 <img align="left" alt="medium" src="https://img.shields.io/badge/-VS%20code-007ACC?style=for-the-badge&logo=visual-studio-code"/>
@@ -60,6 +61,7 @@
 <img align="left" alt="medium" src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/>
 <img align="left" alt="medium" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"/>
 <img align="left" alt="medium" src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white"/>
+<br>
 
 ### Open Source Projects
 [<img align="left" alt="medium" src="https://img.shields.io/badge/-Libra&#32;Audio-tomato?&style=for-the-badge" />](https://github.com/snhu-labs/Libra-Audio)
