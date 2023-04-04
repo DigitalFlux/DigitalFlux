@@ -100,7 +100,7 @@
 <br>
 <br>
 
-
+[<img align="left" alt="medium" src="https://img.shields.io/badge/Epic%20Frontiers-BablBrain-blue?style=for-the-badge" />](https://www.github.com/DigitalFlux/projects/EpicFrontiers.md)
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
