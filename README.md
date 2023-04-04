@@ -104,6 +104,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [GDC 2023, and Other Things…](https://medium.com/@BablBrain/gdc-2023-and-other-things-3ffb25d8a8b)
 - [AI/Dev Musings 11/21/2022](https://www.bablbrain.com/2022/11/21/ai-dev-musings-11-21-2022)
 - [AI Musings for 6/8/2021](https://medium.com/@BablBrain/ai-musings-for-6-8-2021-40875c9af059?source=rss-b9478367f2ea------2)
 - [AI Musings #2](https://medium.com/@BablBrain/ai-musings-2-13149aaae36a?source=rss-b9478367f2ea------2)
